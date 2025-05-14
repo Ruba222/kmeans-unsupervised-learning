@@ -1,7 +1,7 @@
 # kmeans-unsupervised-learning
 A Jupyter Notebook demonstrating K-Means clustering for an unsupervised learning
 
-# RUBA: Unsupervised Clustering - KMeans Assignment
+# Unsupervised Clustering - KMeans 
 
 This repository contains a Jupyter Notebook that demonstrates the application of the **K-Means Clustering** algorithm as part of an unsupervised learning assignment for the RUBA (Recognizing Unsupervised Behavioral Analysis) course.
 
